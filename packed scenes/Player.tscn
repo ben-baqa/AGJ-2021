@@ -1,9 +1,10 @@
-[gd_scene load_steps=9 format=2]
+[gd_scene load_steps=12 format=2]
 
 [ext_resource path="res://models/pluggy.tscn" type="PackedScene" id=1]
 [ext_resource path="res://scripts/Camera Controller.gd" type="Script" id=2]
 [ext_resource path="res://scripts/shadow.gd" type="Script" id=3]
 [ext_resource path="res://scripts/Player.gd" type="Script" id=4]
+[ext_resource path="res://scripts/googly eye.gd" type="Script" id=5]
 
 [sub_resource type="CylinderShape" id=1]
 radius = 0.3
@@ -21,6 +22,15 @@ material = SubResource( 3 )
 height = 0.01
 radial_segments = 16
 rings = 2
+
+[sub_resource type="SphereMesh" id=5]
+radius = 0.1
+height = 0.2
+
+[sub_resource type="SpatialMaterial" id=6]
+albedo_color = Color( 0, 0, 0, 1 )
+metallic = 0.83
+roughness = 0.28
 
 [node name="Player" type="KinematicBody"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0 )
@@ -62,3 +72,19 @@ height_ratio = 0.3
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.75, 0 )
 mesh = SubResource( 4 )
 material/0 = null
+
+[node name="eyes" type="Spatial" parent="."]
+script = ExtResource( 5 )
+elastic_force = 0.1
+parent_speed_ratio = 0.15
+friction = 0.2
+
+[node name="left eye" type="MeshInstance" parent="eyes"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5, 1.1, -0.6 )
+mesh = SubResource( 5 )
+material/0 = SubResource( 6 )
+
+[node name="right eye" type="MeshInstance" parent="eyes"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5, 1.1, -0.6 )
+mesh = SubResource( 5 )
+material/0 = SubResource( 6 )

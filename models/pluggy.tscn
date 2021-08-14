@@ -13,3 +13,5 @@ roughness = 0.11
 
 [node name="Circle002" parent="." index="0"]
 material/0 = SubResource( 1 )
+
+[node name="Spatial" type="Spatial" parent="." index="3"]

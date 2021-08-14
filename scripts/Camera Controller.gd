@@ -11,11 +11,7 @@ func _ready():
 
 func _input(event):
 	if active and event is InputEventMouseMotion:
-		rotate_y(deg2rad(-event.relative.x * mouse_sensitivity.x))
-		if rotation_degrees.y > 360:
-			rotation_degrees.y -= 360
-		if rotation_degrees.y < 0:
-			rotation_degrees.y += 360
+		rotation.y += (deg2rad(-event.relative.x * mouse_sensitivity.x))
 
 		x_rot.rotate_x(deg2rad(-event.relative.y * mouse_sensitivity.y))
 		x_rot.rotation_degrees.x = clamp(x_rot.rotation_degrees.x, -90, 0)

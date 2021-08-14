@@ -61,6 +61,10 @@ fullscreen={
  ]
 }
 
+[layer_names]
+
+3d_physics/layer_2="player eyes"
+
 [rendering]
 
 quality/driver/driver_name="GLES2"
