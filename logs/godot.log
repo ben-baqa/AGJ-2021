@@ -1,0 +1,188 @@
+Godot Engine v3.2.3.stable.mono.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: Intel(R) UHD Graphics 630
+ 
+Mono: Log file is: 'C:\Users\littl\AppData\Roaming/Godot/mono/mono_logs/2021_08_14 11.50.00 (2368).txt'
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false
+**ERROR**: Request for nonexistent InputMap action 'fullscreen'.
+   At: core/input_map.cpp:195:event_get_action_status() - Condition "!E" is true. Returned: false

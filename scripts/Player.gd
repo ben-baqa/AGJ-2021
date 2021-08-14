@@ -1,5 +1,6 @@
 extends KinematicBody
-# movement fucntionality
+
+
 export var friction: float = 0.1
 export var move_force: float = 10
 export var jump_force: float = 10
@@ -35,3 +36,7 @@ func _physics_process(_delta):
 	velocity.z *= (1 - friction)
 
 	velocity = move_and_slide(velocity, Vector3.UP)
+
+
+func _process(_delta):
+	get_tree().call_group("light up", "update_point", global_transform.origin)
