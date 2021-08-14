@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/pluggy.dae-289242ee886af3bb5260bc2786268e50.scn"
+path="res://.import/ENTRYLEVELHUB (2).fbx-1ba2150345ad5a028470bc63c5afab2f.scn"
 
 [deps]
 
-source_file="res://models/pluggy/pluggy.dae"
-dest_files=[ "res://.import/pluggy.dae-289242ee886af3bb5260bc2786268e50.scn" ]
+source_file="res://models/Desk/ENTRYLEVELHUB (2).fbx"
+dest_files=[ "res://.import/ENTRYLEVELHUB (2).fbx-1ba2150345ad5a028470bc63c5afab2f.scn" ]
 
 [params]
 
@@ -16,7 +16,7 @@ nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""
 nodes/storage=0
-nodes/use_legacy_names=true
+nodes/use_legacy_names=false
 materials/location=1
 materials/storage=1
 materials/keep_on_reimport=true

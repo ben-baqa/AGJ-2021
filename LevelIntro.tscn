@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://models/pluggy.tscn" type="PackedScene" id=1]
+[ext_resource path="res://models/Desk/ENTRYLEVELHUB (2).fbx" type="PackedScene" id=2]
+
+[node name="Spatial" type="Spatial"]
+transform = Transform( 0.999967, 0.0078175, 0.00221787, -0.00780847, 0.999961, -0.00405029, -0.00224945, 0.00403284, 0.999989, 0, 0, 0 )
+
+[node name="ENTRYLEVELHUB (2)" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.85191, 5.15648, 0.681483 )
+
+[node name="pluggy" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 57.8269, 20.7421, -42.808 )
