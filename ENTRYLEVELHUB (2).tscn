@@ -172,6 +172,7 @@ material/0 = ExtResource( 9 )
 shape = SubResource( 13 )
 
 [node name="MonitorScreen" parent="RootNode" index="13"]
+transform = Transform( 100, 0, 0, 0, -3.57628e-05, 100, 0, -100, -3.57628e-05, -6.49367, 14.3507, 24.5443 )
 material/0 = ExtResource( 8 )
 
 [node name="Player" parent="." index="1" instance=ExtResource( 1 )]
